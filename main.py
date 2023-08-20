@@ -1,0 +1,1 @@
+print("Suicidal Detection Algorithm")
