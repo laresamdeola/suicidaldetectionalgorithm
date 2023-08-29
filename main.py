@@ -1,1 +1,0 @@
-print("Suicidal Detection Algorithm")
